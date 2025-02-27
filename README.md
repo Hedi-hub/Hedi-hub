@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Hedieh Shafaee!
 
-<!--
-**Hedi-hub/Hedi-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🛠 **Test Specialist** with a strong foundation in programming and a passion for software quality.
+- 🖥 **Been exploring** testing tools, automation frameworks, and development since [your start year].
+- 💻 My **programming background** helps me collaborate effectively across teams and ensure robust software solutions.
+- 🌟 **Loves**: coding, solving problems, watching good series, singing, dancing, and exploring great food.
+- 📧 **Let's connect** on my Linkedin profile: https://www.linkedin.com/in/hedieh-shafaee/
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Skills
+- Languages: Python, Java, etc.
+- Tools: Selenium, Postman, etc.
